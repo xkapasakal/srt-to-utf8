@@ -28,3 +28,5 @@ config/secrets.yml
 # ignore ide
 /.idea/*
 *.sublime*
+
+*.gem
